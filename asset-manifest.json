@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dazpel/SwapiApp/static/css/main.2d45bef2.chunk.css",
+    "main.js": "/Dazpel/SwapiApp/static/js/main.fa3d3dd0.chunk.js",
+    "main.js.map": "/Dazpel/SwapiApp/static/js/main.fa3d3dd0.chunk.js.map",
+    "runtime-main.js": "/Dazpel/SwapiApp/static/js/runtime-main.1d67b4ba.js",
+    "runtime-main.js.map": "/Dazpel/SwapiApp/static/js/runtime-main.1d67b4ba.js.map",
+    "static/js/2.0f32d3fa.chunk.js": "/Dazpel/SwapiApp/static/js/2.0f32d3fa.chunk.js",
+    "static/js/2.0f32d3fa.chunk.js.map": "/Dazpel/SwapiApp/static/js/2.0f32d3fa.chunk.js.map",
+    "index.html": "/Dazpel/SwapiApp/index.html",
+    "precache-manifest.4df35f6c0e60854680874f4d0a977b5c.js": "/Dazpel/SwapiApp/precache-manifest.4df35f6c0e60854680874f4d0a977b5c.js",
+    "service-worker.js": "/Dazpel/SwapiApp/service-worker.js",
+    "static/css/main.2d45bef2.chunk.css.map": "/Dazpel/SwapiApp/static/css/main.2d45bef2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d67b4ba.js",
+    "static/js/2.0f32d3fa.chunk.js",
+    "static/css/main.2d45bef2.chunk.css",
+    "static/js/main.fa3d3dd0.chunk.js"
+  ]
+}
