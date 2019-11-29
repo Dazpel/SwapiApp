@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "437c789e3e1a4955811e1721b9eaadc4",
+    "revision": "f9a8aa9b73c4884256208ea2eefbda33",
     "url": "/Dazpel/SwapiApp/index.html"
   },
   {
-    "revision": "717a019d2c78d2d97b54",
+    "revision": "12ea81cf3197b3c371ed",
     "url": "/Dazpel/SwapiApp/static/css/main.2d45bef2.chunk.css"
   },
   {
-    "revision": "0306df38bfc62c983d93",
-    "url": "/Dazpel/SwapiApp/static/js/2.0f32d3fa.chunk.js"
+    "revision": "4ce968fe289bc4c31336",
+    "url": "/Dazpel/SwapiApp/static/js/2.da8f82cf.chunk.js"
   },
   {
-    "revision": "717a019d2c78d2d97b54",
-    "url": "/Dazpel/SwapiApp/static/js/main.fa3d3dd0.chunk.js"
+    "revision": "12ea81cf3197b3c371ed",
+    "url": "/Dazpel/SwapiApp/static/js/main.be038d2b.chunk.js"
   },
   {
     "revision": "9d9e2e9d332f4439fe45",
